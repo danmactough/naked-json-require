@@ -1,0 +1,15 @@
+{
+  "name": "naked-json-require",
+  "version": "1.0.0",
+  "description": "Single function to \"require\" json file that lacks an extension",
+  "main": "naked-json-require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "require"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "license": "MIT"
+}
