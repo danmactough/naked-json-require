@@ -1,6 +1,6 @@
 {
   "name": "naked-json-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Single function to \"require\" json file that lacks an extension",
   "main": "naked-json-require.js",
   "scripts": {
