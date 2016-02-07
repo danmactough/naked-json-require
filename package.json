@@ -11,5 +11,13 @@
     "require"
   ],
   "author": "Dan MacTough <danmactough@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmactough/naked-json-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danmactough/naked-json-require/issues"
+  },
+  "homepage": "https://github.com/danmactough/naked-json-require#readme"
 }
