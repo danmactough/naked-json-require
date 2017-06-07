@@ -1,4 +1,6 @@
 # naked-json-require
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/naked-json-require.svg)](https://greenkeeper.io/)
 Single function to "require" json file that lacks an extension
 
 ## Usage
